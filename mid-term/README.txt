@@ -4,3 +4,5 @@ I linked this repo to a dockerHub repo so that as I commit the code my docker co
 dockerHUb repo --> 
 
 The aim is to extend the jupyter notebook docker to include matblot lib so that i can plot data from the italian covid19 epidemic.
+
+Nope, this is not the way to build a repository, we migrate, much to my chagrin
